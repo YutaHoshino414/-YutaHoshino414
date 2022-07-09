@@ -1,9 +1,10 @@
 
 <a href="https://github.com/YutaHoshino414"><br/>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=YutaHoshino414&count_private=true&theme=react" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=YutaHoshino414&count_private=true&theme=react" width="450" />
 </a>
+<br/><br/><br/><br/><br/><br/><br/>
 
-### Languages
+## Languages
 ![python](https://img.shields.io/badge/-Python-ffee00.svg?logo=python&style=for-the-badge)
 ![javascript](https://img.shields.io/badge/-Javascript-141414.svg?logo=javascript&style=for-the-badge)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)

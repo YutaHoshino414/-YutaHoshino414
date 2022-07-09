@@ -6,7 +6,7 @@
 ## Profile
 I am a beginner of web application programmer.<br/>
 I'm currently working for a company to develop a WebCrawler.<br/>
-I am good at working with python related with webscraping-area such as selenium-webdriver, bs4, lxml, scrapy, so on.
+I'm good at working with python related-with webscraping-genre such as selenium-webdriver, bs4, lxml, scrapy, so on.
 <br/><br/>
 
 ## Languages

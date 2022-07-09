@@ -7,7 +7,7 @@
 I am a beginner of web application programmer.<br/>
 I'm currently working for a company to develop a WebCrawler.<br/>
 I am good at working with python related with webscraping-area such as selenium-webdriver, bs4, lxml, scrapy, so on.
-<br/><br/><br/>
+<br/><br/>
 
 ## Languages
 ![python](https://img.shields.io/badge/-Python-ffee00.svg?logo=python&style=for-the-badge)
